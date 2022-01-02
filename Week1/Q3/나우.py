@@ -14,7 +14,7 @@ dic = {'zero': '0', 'one': '1', 'two': '2', 'three': '3', 'four': '4',
 
 # 하나의 문자에 대해 숫자인지 판별하는 함수입니다.
 def is_num(ch):
-    # 숫자 0~9까지 아스키코드 값: 48~57
+    # 숫자 0~9 ASCII 코드 값: 48~57
     if 48 <= ord(ch) <= 57:
         return True
     else:
