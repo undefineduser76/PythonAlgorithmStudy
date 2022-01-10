@@ -24,7 +24,7 @@
   2. 크레인 인형뽑기: <https://programmers.co.kr/learn/courses/30/lessons/64061>
   3. 숫자 문자열과 영단어: <https://programmers.co.kr/learn/courses/30/lessons/81301>
 
-## Week  
+## Week 2
 
 - 2022/01/9 - 2022/01/15  : 프로그래머스 Level 1 문제 3개 
 
