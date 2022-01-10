@@ -28,7 +28,7 @@
 
 - 2022/01/9 - 2022/01/15  : 프로그래머스 Level 1 문제 3개 
 
-- __업로드 파일명__ : __Week1/Q\_/[각자닉네임].py__ 
+- __업로드 파일명__ : __Week2/Q\_/[각자닉네임].py__ 
 - 문제
   1. 키패드 누르기: <https://programmers.co.kr/learn/courses/30/lessons/67256>
   2. 오픈채팅방: <https://programmers.co.kr/learn/courses/30/lessons/42888>
