@@ -23,3 +23,16 @@
   1. 체육복: <https://programmers.co.kr/learn/courses/30/lessons/42862>
   2. 크레인 인형뽑기: <https://programmers.co.kr/learn/courses/30/lessons/64061>
   3. 숫자 문자열과 영단어: <https://programmers.co.kr/learn/courses/30/lessons/81301>
+
+## Week 2
+
+- 2022/01/9 - 2022/01/15  : 프로그래머스 Level 1 문제 3개 
+
+- __업로드 파일명__ : __Week2/Q\_/[각자닉네임].py__ 
+- 문제
+  1. 키패드 누르기: <https://programmers.co.kr/learn/courses/30/lessons/67256>
+  2. 오픈채팅방: <https://programmers.co.kr/learn/courses/30/lessons/42888>
+  3. 메뉴 리뉴얼: <https://programmers.co.kr/learn/courses/30/lessons/72411>
+  4. 거리두기 확인하기: <https://programmers.co.kr/learn/courses/30/lessons/81302>
+  5. 순위 검색: <https://programmers.co.kr/learn/courses/30/lessons/72412>
+
