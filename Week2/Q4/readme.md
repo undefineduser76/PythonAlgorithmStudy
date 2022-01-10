@@ -1,2 +1,2 @@
-[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862){: target="_blank"}
+[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 
