@@ -26,7 +26,7 @@
 
 ## Week 2
 
-- 2022/01/9 - 2022/01/15  : 프로그래머스 Level 1, Level 2 문제 5개 
+- 2022/01/09 - 2022/01/15  : 프로그래머스 Level 1, Level 2 문제 5개 
 
 - __업로드 파일명__ : __Week2/Q\_/[각자닉네임].py__ 
 - 문제
@@ -35,4 +35,17 @@
   3. 메뉴 리뉴얼: <https://programmers.co.kr/learn/courses/30/lessons/72411>
   4. 거리두기 확인하기: <https://programmers.co.kr/learn/courses/30/lessons/81302>
   5. 순위 검색: <https://programmers.co.kr/learn/courses/30/lessons/72412>
+  
+
+## Week 3
+
+- 2022/01/17 - 2022/01/23  :  프로그래머스 Level 3 문제 5개
+
+- __업로드 파일명__ : __Week3/Q\_/[각자닉네임].py__
+- 문제
+  1. 양과 늑대: <https://programmers.co.kr/learn/courses/30/lessons/92343>
+  2. 합승 택시 요금: <https://programmers.co.kr/learn/courses/30/lessons/72413>
+  3. 광고 삽입: <https://programmers.co.kr/learn/courses/30/lessons/72414>
+  4. 블록 이동하기: <https://programmers.co.kr/learn/courses/30/lessons/60063>
+  5. 외벽 점검: <https://programmers.co.kr/learn/courses/30/lessons/60062>
 
