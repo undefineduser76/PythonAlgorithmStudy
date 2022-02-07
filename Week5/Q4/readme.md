@@ -1,1 +1,1 @@
-<a href="https://programmers.co.kr/learn/courses/30/lessons/43164" target="_blank">여행경로</a>
+<a href="https://programmers.co.kr/learn/courses/30/lessons/42839" target="_blank">소수 찾기</a>
