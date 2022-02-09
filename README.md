@@ -49,3 +49,30 @@
   4. 블록 이동하기: <https://programmers.co.kr/learn/courses/30/lessons/60063>
   5. 외벽 점검: <https://programmers.co.kr/learn/courses/30/lessons/60062>
 
+## Week 4
+
+- 2022/01/17 - 2022/01/23  :  프로그래머스 Level 3 문제 5개
+
+- __업로드 파일명__ : __Week3/Q\_/[각자닉네임].py__
+- 문제
+  1. 양과 늑대: <https://programmers.co.kr/learn/courses/30/lessons/92343>
+  2. 합승 택시 요금: <https://programmers.co.kr/learn/courses/30/lessons/72413>
+  3. 광고 삽입: <https://programmers.co.kr/learn/courses/30/lessons/72414>
+  4. 블록 이동하기: <https://programmers.co.kr/learn/courses/30/lessons/60063>
+  5. 외벽 점검: <https://programmers.co.kr/learn/courses/30/lessons/60062>
+
+## Week 5
+
+- 2022/01/27 - 2022/02/09  :  프로그래머스 Level 3 문제 5개
+
+- __업로드 파일명__ : __Week5/Q\_/[각자닉네임].py__
+- 문제
+  1. 줄서기: <https://programmers.co.kr/learn/courses/30/lessons/12936>
+  2. 최고의 집합: <https://programmers.co.kr/learn/courses/30/lessons/12938>
+  3. 풍선 터트리기: <https://programmers.co.kr/learn/courses/30/lessons/68646>
+  4. 소수 찾기: <https://programmers.co.kr/learn/courses/30/lessons/42839>
+  5. 큰 수 만들기: <https://programmers.co.kr/learn/courses/30/lessons/42883>
+
+
+
+
