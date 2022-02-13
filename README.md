@@ -20,9 +20,9 @@
 
 - __업로드 파일명__ : __Week1/Q\_/[각자닉네임].py__ 
 - 문제
-  1. 체육복: <https://programmers.co.kr/learn/courses/30/lessons/42862>
-  2. 크레인 인형뽑기: <https://programmers.co.kr/learn/courses/30/lessons/64061>
-  3. 숫자 문자열과 영단어: <https://programmers.co.kr/learn/courses/30/lessons/81301>
+  1. <a href="https://programmers.co.kr/learn/courses/30/lessons/42862">체육복</a>
+  2. <a href="https://programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기</a>
+  3. <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>
 
 ## Week 2
 
@@ -30,11 +30,11 @@
 
 - __업로드 파일명__ : __Week2/Q\_/[각자닉네임].py__ 
 - 문제
-  1. 키패드 누르기: <https://programmers.co.kr/learn/courses/30/lessons/67256>
-  2. 오픈채팅방: <https://programmers.co.kr/learn/courses/30/lessons/42888>
-  3. 메뉴 리뉴얼: <https://programmers.co.kr/learn/courses/30/lessons/72411>
-  4. 거리두기 확인하기: <https://programmers.co.kr/learn/courses/30/lessons/81302>
-  5. 순위 검색: <https://programmers.co.kr/learn/courses/30/lessons/72412>
+  1. <a href="https://programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a>
+  2. <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a>
+  3. <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a>
+  4. <a href="https://programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a>
+  5. <a href="https://programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a>
   
 
 ## Week 3
@@ -43,11 +43,11 @@
 
 - __업로드 파일명__ : __Week3/Q\_/[각자닉네임].py__
 - 문제
-  1. 양과 늑대: <https://programmers.co.kr/learn/courses/30/lessons/92343>
-  2. 합승 택시 요금: <https://programmers.co.kr/learn/courses/30/lessons/72413>
-  3. 광고 삽입: <https://programmers.co.kr/learn/courses/30/lessons/72414>
-  4. 블록 이동하기: <https://programmers.co.kr/learn/courses/30/lessons/60063>
-  5. 외벽 점검: <https://programmers.co.kr/learn/courses/30/lessons/60062>
+  1. <a href="https://programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a>
+  2. <a href="https://programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a>
+  3. <a href="https://programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a>
+  4. <a href="https://programmers.co.kr/learn/courses/30/lessons/60063">블록 이동하기</a>
+  5. <a href="https://programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a>
 
 ## Week 4
 
@@ -55,11 +55,11 @@
 
 - __업로드 파일명__ : __Week3/Q\_/[각자닉네임].py__
 - 문제
-  1. 양과 늑대: <https://programmers.co.kr/learn/courses/30/lessons/92343>
-  2. 합승 택시 요금: <https://programmers.co.kr/learn/courses/30/lessons/72413>
-  3. 광고 삽입: <https://programmers.co.kr/learn/courses/30/lessons/72414>
-  4. 블록 이동하기: <https://programmers.co.kr/learn/courses/30/lessons/60063>
-  5. 외벽 점검: <https://programmers.co.kr/learn/courses/30/lessons/60062>
+  1. <a href="https://programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a>
+  2. <a href="https://programmers.co.kr/learn/courses/30/lessons/72413">합승 택시 요금</a>
+  3. <a href="https://programmers.co.kr/learn/courses/30/lessons/72414">광고 삽입</a>
+  4. <a href="https://programmers.co.kr/learn/courses/30/lessons/60063">블록 이동하기</a>
+  5. <a href="https://programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a>
 
 ## Week 5
 
@@ -67,12 +67,23 @@
 
 - __업로드 파일명__ : __Week5/Q\_/[각자닉네임].py__
 - 문제
-  1. 줄서기: <https://programmers.co.kr/learn/courses/30/lessons/12936>
-  2. 최고의 집합: <https://programmers.co.kr/learn/courses/30/lessons/12938>
-  3. 풍선 터트리기: <https://programmers.co.kr/learn/courses/30/lessons/68646>
-  4. 소수 찾기: <https://programmers.co.kr/learn/courses/30/lessons/42839>
-  5. 큰 수 만들기: <https://programmers.co.kr/learn/courses/30/lessons/42883>
+  1. <a href="https://programmers.co.kr/learn/courses/30/lessons/12936">줄서기</a>
+  2. <a href="https://programmers.co.kr/learn/courses/30/lessons/12938">최고의 집합</a>
+  3. <a href="https://programmers.co.kr/learn/courses/30/lessons/68646">풍선 터트리기</a>
+  4. <a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a>
+  5. <a href="https://programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a>
 
 
+## Week 6
+
+- 2022/02/14 - 2022/02/16  :  프로그래머스 Level 2, 3, 4 문제 5개
+
+- __업로드 파일명__ : __Week6/Q\_/[각자닉네임].py__
+- 문제
+  1. <a href="https://programmers.co.kr/learn/courses/30/lessons/42860">조이스틱</a>
+  2. <a href="https://programmers.co.kr/learn/courses/30/lessons/77486">다단계 칫솔 판매</a>
+  3. <a href="https://programmers.co.kr/learn/courses/30/lessons/60059">자물쇠와 열쇠</a>
+  4. <a href="https://programmers.co.kr/learn/courses/30/lessons/42891">무지의 먹방 라이브</a>
+  5. <a href="https://programmers.co.kr/learn/courses/30/lessons/43236">징검다리</a>
 
 

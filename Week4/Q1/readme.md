@@ -1,1 +1,1 @@
-<a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">타겟 넘버</a>
+<a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>
